@@ -1,4 +1,4 @@
 <?php
-//kososng
+echo "hello world"; // hafiidhin github
 
 ?>
